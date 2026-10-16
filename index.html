@@ -1,0 +1,51 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HSBC Securities Services Roles</title>
+<style>
+:root{--bg:#fff;--fg:#1b1b1b;--mut:#6b6b6b;--card:#f5f5f5;--bd:#ddd;--acc:#db0011}
+@media(prefers-color-scheme:dark){:root{--bg:#161616;--fg:#eee;--mut:#9a9a9a;--card:#222;--bd:#383838;--acc:#ff4d5a}}
+body{margin:0;padding:20px;font:14px system-ui,sans-serif;background:var(--bg);color:var(--fg)}
+h1{font-size:20px;margin:0 0 2px}.sub{color:var(--mut);margin-bottom:16px}
+.bar{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:14px}
+select,input{padding:8px;border:1px solid var(--bd);border-radius:6px;background:var(--card);color:var(--fg);font:inherit}
+input{min-width:220px;flex:1}
+.stats{display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap}
+.stat{background:var(--card);padding:10px 16px;border-radius:8px}.stat b{display:block;font-size:20px}
+.wrap{overflow-x:auto}table{width:100%;border-collapse:collapse}
+th,td{text-align:left;padding:8px;border-bottom:1px solid var(--bd);vertical-align:top}
+th{color:var(--mut);font-weight:500}a{color:var(--acc);text-decoration:none}
+.tag{display:inline-block;background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:1px 8px;margin:1px;font-size:12px}
+.sen{color:var(--acc);font-weight:600}#msg{color:var(--mut);padding:20px 0}
+</style></head><body>
+<h1>HSBC – Securities Services & related roles</h1>
+<div class="sub" id="upd">Loading…</div>
+<div class="bar">
+<select id="seniority"><option value="all">All seniority</option><option value="above">Director and above</option><option value="below">Below Director</option></select>
+<select id="region"><option value="">All regions</option></select>
+<select id="country"><option value="">All countries</option></select>
+<select id="kw"><option value="">All key phrases</option></select>
+<input id="q" placeholder="Search title…">
+</div>
+<div class="stats"><div class="stat"><b id="n1">0</b>Matching roles</div><div class="stat"><b id="n2">0</b>Director & above</div><div class="stat"><b id="n3">0</b>New (last 7 days)</div></div>
+<div class="wrap"><table><thead><tr><th>Title</th><th>Location</th><th>Region</th><th>Level</th><th>Key phrases</th><th>Posted</th></tr></thead><tbody id="rows"></tbody></table></div>
+<div id="msg"></div>
+<script>
+const $=id=>document.getElementById(id);let jobs=[];
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function fill(sel,vals){[...new Set(vals)].filter(Boolean).sort().forEach(v=>sel.add(new Option(v,v)))}
+function render(){
+ const s=$("seniority").value,r=$("region").value,c=$("country").value,k=$("kw").value,q=$("q").value.toLowerCase();
+ const f=jobs.filter(j=>(s=="all"||(s=="above")==j.senior)&&(!r||j.region==r)&&(!c||j.country==c)&&(!k||j.matched.includes(k))&&(!q||j.title.toLowerCase().includes(q)));
+ const wk=Date.now()-7*864e5;
+ $("n1").textContent=f.length;$("n2").textContent=f.filter(j=>j.senior).length;
+ $("n3").textContent=f.filter(j=>new Date(j.first_seen)>=wk).length;
+ $("rows").innerHTML=f.map(j=>`<tr><td><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a></td><td>${esc(j.city)}, ${esc(j.country)}</td><td>${esc(j.region)}</td><td class="${j.senior?"sen":""}">${j.senior?"Director+":"Below Director"}</td><td>${j.matched.map(m=>`<span class="tag">${esc(m)}</span>`).join("")}</td><td>${esc(j.posted)}</td></tr>`).join("");
+ $("msg").textContent=f.length?"":"No roles match the current filters.";
+}
+fetch("jobs.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
+ jobs=d.jobs;
+ $("upd").textContent=d.updated?"Last refreshed "+new Date(d.updated).toLocaleString("en-SG",{timeZone:"Asia/Singapore",dateStyle:"medium",timeStyle:"short"})+" SGT · refreshes daily at 5:00am SGT":"No data yet – run the scraper.";
+ fill($("region"),jobs.map(j=>j.region));fill($("country"),jobs.map(j=>j.country));fill($("kw"),jobs.flatMap(j=>j.matched));
+ ["seniority","region","country","kw"].forEach(i=>$(i).onchange=render);$("q").oninput=render;render();
+}).catch(()=>{$("upd").textContent="";$("msg").textContent="Could not load jobs.json – serve this folder over http(s) (e.g. GitHub Pages)."});
+</script></body></html>
