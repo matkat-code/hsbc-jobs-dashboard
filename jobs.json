@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:21:26.186118+00:00",
+ "updated": "2026-10-17T21:18:17.939621+00:00",
  "source": "https://portal.careers.hsbc.com",
  "jobs": [
   {
@@ -487,24 +487,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": 563774612440872,
-   "title": "Director, COO and AI Enablement - Capital Markets & Advisory COO (Global Sectors)",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612440872",
-   "location": "London, United Kingdom",
-   "city": "London",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-09",
-   "matched": [
-    "capital markets",
-    "COO"
-   ],
-   "senior": true,
-   "first_seen": "2026-10-16"
-  },
-  {
    "id": 563774612438491,
    "title": "Senior Analyst, Workforce Planning",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612438491",
@@ -676,23 +658,6 @@
    "matched": [
     "MSS",
     "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774612427726,
-   "title": "Senior Java React Consultant Specialist - Debt Capital Markets",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612427726",
-   "location": "Buffalo, New York, United States",
-   "city": "Buffalo",
-   "country": "United States",
-   "region": "Americas",
-   "department": "Technology",
-   "unit": "GCIO",
-   "posted": "2026-10-07",
-   "matched": [
-    "capital markets"
    ],
    "senior": false,
    "first_seen": "2026-10-16"
@@ -1179,26 +1144,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": 563774612370541,
-   "title": "Senior Fund Administrator - Client Reporting",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612370541",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-09-29",
-   "matched": [
-    "custody",
-    "fund accounting",
-    "Securities Services",
-    "fund services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
    "id": 563774612372297,
    "title": "Subject Matter Expert - Traditional Fund Accounting",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612372297",
@@ -1591,40 +1536,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": 563774612319647,
-   "title": "Assistant Vice President - Tax Custody",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612319647",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-09-22",
-   "matched": [
-    "custody"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774612319650,
-   "title": "Manager Operations",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612319650",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-09-22",
-   "matched": [
-    "custody"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
    "id": 563774612319316,
    "title": "Assistant Manager",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612319316",
@@ -1711,25 +1622,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": 563774612284975,
-   "title": "Private Assets Funds Supervisor",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612284975",
-   "location": "Luxembourg, Letzebuerg, Luxembourg",
-   "city": "Luxembourg",
-   "country": "Luxembourg",
-   "region": "Europe",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-09-17",
-   "matched": [
-    "fund accounting",
-    "fund administration",
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
    "id": 563774612283610,
    "title": "Credit & Capital Management Transaction Services Manager",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612283610",
@@ -1794,23 +1686,6 @@
    "posted": "2026-09-15",
    "matched": [
     "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774612255719,
-   "title": "Associate - Consumer, Retail Sector Coverage",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612255719",
-   "location": "New York, New York, United States",
-   "city": "New York",
-   "country": "United States",
-   "region": "Americas",
-   "department": "Commercial Banking",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-09-14",
-   "matched": [
-    "capital markets"
    ],
    "senior": false,
    "first_seen": "2026-10-16"
@@ -2907,23 +2782,6 @@
     "FSS"
    ],
    "senior": true,
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774611879767,
-   "title": "Analyst Business Credit Office",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774611879767",
-   "location": "Cuauhtemoc, Distrito Federal, Mexico",
-   "city": "Cuauhtemoc",
-   "country": "Mexico",
-   "region": "Americas",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-07-15",
-   "matched": [
-    "COO"
-   ],
-   "senior": false,
    "first_seen": "2026-10-16"
   },
   {
