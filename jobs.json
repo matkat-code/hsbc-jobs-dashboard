@@ -1,7 +1,27 @@
 {
- "updated": "2026-10-17T21:18:17.939621+00:00",
+ "updated": "2026-10-18T21:15:30.384461+00:00",
  "source": "https://portal.careers.hsbc.com",
  "jobs": [
+  {
+   "id": 563774612505193,
+   "title": "VP Settlement",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612505193",
+   "location": "Taipei, Taipei City, Taiwan",
+   "city": "Taipei",
+   "country": "Taiwan",
+   "region": "APAC",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-10-18",
+   "matched": [
+    "custody",
+    "fund administration",
+    "Securities Services",
+    "capital markets"
+   ],
+   "senior": false,
+   "first_seen": "2026-10-18"
+  },
   {
    "id": 563774612471875,
    "title": "AVP, Settlement, Direct Custody and Clearing, HSS",
@@ -359,6 +379,23 @@
    "first_seen": "2026-10-16"
   },
   {
+   "id": 563774612458143,
+   "title": "Assistant Relationship Manager - International Middle Market - Corporate Banking - UAE National Role",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612458143",
+   "location": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+   "city": "Abu Dhabi",
+   "country": "United Arab Emirates",
+   "region": "MENA",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-10-13",
+   "matched": [
+    "Securities Services"
+   ],
+   "senior": false,
+   "first_seen": "2026-10-18"
+  },
+  {
    "id": 563774612457658,
    "title": "Associate Vice President - Data Analytics and Transformation",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612457658",
@@ -645,24 +682,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": 563774612424975,
-   "title": "Administer and support Oracle/ PostgreSQL- Associate Director,",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612424975",
-   "location": "Pune, Maharashtra, India",
-   "city": "Pune",
-   "country": "India",
-   "region": "APAC",
-   "department": "Technology",
-   "unit": "GCIO",
-   "posted": "2026-10-07",
-   "matched": [
-    "MSS",
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
    "id": 563774612406173,
    "title": "Client Service Delivery Manager",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612406173",
@@ -676,41 +695,6 @@
    "matched": [
     "custody",
     "fund administration",
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774612410997,
-   "title": "Assistant Branch Manager - Corporate & Institutional Banking - Oman National Role",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612410997",
-   "location": "Muscat, Muscat, Oman",
-   "city": "Muscat",
-   "country": "Oman",
-   "region": "MENA",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-06",
-   "matched": [
-    "custody",
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774612411216,
-   "title": "Technical Business Analyst - User Experience Interface",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612411216",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-06",
-   "matched": [
     "Securities Services"
    ],
    "senior": false,
@@ -840,24 +824,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": 563774612389719,
-   "title": "Director, Head of Global Investor Access - APAC",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612389719",
-   "location": "Central, Hong Kong Island, Hong Kong",
-   "city": "Central",
-   "country": "Hong Kong",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-02",
-   "matched": [
-    "Securities Services",
-    "capital markets"
-   ],
-   "senior": true,
-   "first_seen": "2026-10-16"
-  },
-  {
    "id": 563774612392095,
    "title": "Senior Discretionary Product Specialist (f/m/d)",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612392095",
@@ -924,24 +890,6 @@
     "custody",
     "fund accounting",
     "fund administration",
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774612387154,
-   "title": "Cash Management Manager - Markets & Securities Services (UAE National Role)",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612387154",
-   "location": "Dubai, Dubai, United Arab Emirates",
-   "city": "Dubai",
-   "country": "United Arab Emirates",
-   "region": "MENA",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-01",
-   "matched": [
-    "MSS",
     "Securities Services"
    ],
    "senior": false,
@@ -1139,25 +1087,6 @@
     "MSS",
     "Securities Services",
     "capital markets"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774612372297,
-   "title": "Subject Matter Expert - Traditional Fund Accounting",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612372297",
-   "location": "Kolkata, West Bengal, India",
-   "city": "Kolkata",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-09-29",
-   "matched": [
-    "custody",
-    "fund accounting",
-    "Securities Services"
    ],
    "senior": false,
    "first_seen": "2026-10-16"
@@ -1425,24 +1354,6 @@
    "matched": [
     "custody",
     "fund administration",
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774612329737,
-   "title": "Senior Analyst, Pricing",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612329737",
-   "location": "Azcapotzalco, Ciudad de M\u00e9xico, Mexico",
-   "city": "Azcapotzalco",
-   "country": "Mexico",
-   "region": "Americas",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-09-23",
-   "matched": [
-    "MSS",
     "Securities Services"
    ],
    "senior": false,
@@ -1758,23 +1669,6 @@
     "Securities Services"
    ],
    "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774612230998,
-   "title": "Senior Vice President, Head of Transaction Services, Credit Operations",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612230998",
-   "location": "Mumbai, Maharashtra, India",
-   "city": "Mumbai",
-   "country": "India",
-   "region": "APAC",
-   "department": "Operations",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-09-09",
-   "matched": [
-    "COO"
-   ],
-   "senior": true,
    "first_seen": "2026-10-16"
   },
   {
@@ -2462,6 +2356,26 @@
    ],
    "senior": false,
    "first_seen": "2026-10-16"
+  },
+  {
+   "id": 563774612135550,
+   "title": "Manager Operations - Traditional Fund Accounting",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612135550",
+   "location": "Kolkata, West Bengal, India",
+   "city": "Kolkata",
+   "country": "India",
+   "region": "APAC",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-08-19",
+   "matched": [
+    "custody",
+    "fund accounting",
+    "Securities Services",
+    "capital markets"
+   ],
+   "senior": false,
+   "first_seen": "2026-10-18"
   },
   {
    "id": 563774612126833,
