@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T21:24:11.883929+00:00",
+ "updated": "2026-10-24T21:16:03.403966+00:00",
  "source": "https://portal.careers.hsbc.com",
  "jobs": [
   {
@@ -470,26 +470,6 @@
    "first_seen": "2026-10-22"
   },
   {
-   "id": 563774612506221,
-   "title": "Senior Fund Administrator - Mutual Funds",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612506221",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-19",
-   "matched": [
-    "custody",
-    "fund accounting",
-    "Securities Services",
-    "fund services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": 563774612507396,
    "title": "Securities Services NFR, Funds Administration & Trustee (Associate Director)",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612507396",
@@ -667,26 +647,6 @@
    ],
    "senior": false,
    "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774612472990,
-   "title": "Trade and Position Management Processor",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612472990",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-16",
-   "matched": [
-    "custody",
-    "fund accounting",
-    "Securities Services",
-    "capital markets"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-20"
   },
   {
    "id": 563774612472094,
@@ -868,26 +828,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": 563774612466696,
-   "title": "Senior Fund Administrator - Financial Reporting",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612466696",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-15",
-   "matched": [
-    "custody",
-    "fund accounting",
-    "Securities Services",
-    "fund services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-19"
-  },
-  {
    "id": 563774612469461,
    "title": "Associate, Corporate Trust",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612469461",
@@ -905,64 +845,6 @@
    ],
    "senior": false,
    "first_seen": "2026-10-22"
-  },
-  {
-   "id": 563774612468009,
-   "title": "Manager Operations - Traditional Fund Accounting",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612468009",
-   "location": "Kolkata, West Bengal, India",
-   "city": "Kolkata",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-15",
-   "matched": [
-    "custody",
-    "fund accounting",
-    "Securities Services",
-    "capital markets"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-19"
-  },
-  {
-   "id": 563774612466529,
-   "title": "Subject Matter Expert - Fund Accounting",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612466529",
-   "location": "Kolkata, West Bengal, India",
-   "city": "Kolkata",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-15",
-   "matched": [
-    "custody",
-    "fund accounting",
-    "fund services",
-    "capital markets"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-22"
-  },
-  {
-   "id": 563774612467077,
-   "title": "Manager Operations - Mutual Fund Accounting",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612467077",
-   "location": "Kolkata, West Bengal, India",
-   "city": "Kolkata",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-15",
-   "matched": [
-    "fund accounting",
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-19"
   },
   {
    "id": 563774612470338,
@@ -1756,6 +1638,25 @@
    "first_seen": "2026-10-16"
   },
   {
+   "id": 563774612380643,
+   "title": "Manager Operations-Private Equity",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612380643",
+   "location": "Kolkata, West Bengal, India",
+   "city": "Kolkata",
+   "country": "India",
+   "region": "APAC",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-09-30",
+   "matched": [
+    "custody",
+    "fund accounting",
+    "fund services"
+   ],
+   "senior": false,
+   "first_seen": "2026-10-24"
+  },
+  {
    "id": 563774612380662,
    "title": "Associate Corporate Banking Manager",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612380662",
@@ -1867,6 +1768,25 @@
    ],
    "senior": false,
    "first_seen": "2026-10-16"
+  },
+  {
+   "id": 563774612370808,
+   "title": "Manager Operations-Private Equity",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612370808",
+   "location": "Bangalore, Karnataka, India",
+   "city": "Bangalore",
+   "country": "India",
+   "region": "APAC",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-09-29",
+   "matched": [
+    "custody",
+    "fund accounting",
+    "fund services"
+   ],
+   "senior": false,
+   "first_seen": "2026-10-24"
   },
   {
    "id": 563774612370436,
@@ -2130,25 +2050,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": 563774612328345,
-   "title": "Subject Matter Expert",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612328345",
-   "location": "Kolkata, West Bengal, India",
-   "city": "Kolkata",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-09-23",
-   "matched": [
-    "custody",
-    "fund administration",
-    "capital markets"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": 563774612329699,
    "title": "Software Engineer",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612329699",
@@ -2304,23 +2205,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": 563774612259467,
-   "title": "Software Engineer",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612259467",
-   "location": "Krak\u00f3w, PODLASKIE, Poland",
-   "city": "Krak\u00f3w",
-   "country": "Poland",
-   "region": "Europe",
-   "department": "",
-   "unit": "GCIO",
-   "posted": "2026-09-15",
-   "matched": [
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
    "id": 563774612246020,
    "title": "Analista de Cr\u00e9dito Empresarial Senior",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612246020",
@@ -2352,23 +2236,6 @@
     "Securities Services"
    ],
    "senior": false,
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774612241411,
-   "title": "Director, Corporate Sales (FX & Rates)",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612241411",
-   "location": "New York, New York, United States",
-   "city": "New York",
-   "country": "United States",
-   "region": "Americas",
-   "department": "Investment Banking, Markets, and Research",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-09-10",
-   "matched": [
-    "capital markets"
-   ],
-   "senior": true,
    "first_seen": "2026-10-16"
   },
   {
