@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:41:43.543086+00:00",
+ "updated": "2026-11-14T21:31:17.544626+00:00",
  "source": "https://portal.careers.hsbc.com",
  "jobs": [
   {
@@ -287,24 +287,6 @@
    "first_seen": "2026-11-12"
   },
   {
-   "id": 563774612616138,
-   "title": "Asset Servicing Manager Custody Operations",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612616138",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-11-10",
-   "matched": [
-    "custody",
-    "Asset Servicing"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-13"
-  },
-  {
    "id": 563774612615792,
    "title": "Clearing and Settlements Processor - SG SETTLEMENTS - MNL",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612615792",
@@ -480,23 +462,6 @@
    ],
    "senior": false,
    "first_seen": "2026-11-11"
-  },
-  {
-   "id": 563774612617778,
-   "title": "Senior Business Analyst - Counterparty Credit Risk",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612617778",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Risk & Compliance",
-   "posted": "2026-11-10",
-   "matched": [
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-12"
   },
   {
    "id": 563774612615648,
@@ -1371,25 +1336,6 @@
    "first_seen": "2026-10-30"
   },
   {
-   "id": 563774612557153,
-   "title": "Subject Matter Expert - Traditional Fund Accounting",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612557153",
-   "location": "Kolkata, West Bengal, India",
-   "city": "Kolkata",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-29",
-   "matched": [
-    "custody",
-    "fund accounting",
-    "fund services"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-13"
-  },
-  {
    "id": 563774612559778,
    "title": "Analyst, Institutional Client Group",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612559778",
@@ -1622,23 +1568,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": 563774612526162,
-   "title": "ORMB, SQL, Java / Consultant Specialist",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612526162",
-   "location": "Pune, Maharashtra, India",
-   "city": "Pune",
-   "country": "India",
-   "region": "APAC",
-   "department": "Technology",
-   "unit": "GCIO",
-   "posted": "2026-10-23",
-   "matched": [
-    "COO"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-13"
-  },
-  {
    "id": 563774612522140,
    "title": "Private Assets Fund Supervisor",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612522140",
@@ -1776,23 +1705,6 @@
    ],
    "senior": false,
    "first_seen": "2026-11-11"
-  },
-  {
-   "id": 563774612515296,
-   "title": "Credit Structuring Analyst",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612515296",
-   "location": "Monterrey, Nuevo Le\u00f3n, Mexico",
-   "city": "Monterrey",
-   "country": "Mexico",
-   "region": "Americas",
-   "department": "Commercial Banking",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-20",
-   "matched": [
-    "COO"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-12"
   },
   {
    "id": 563774612506982,
@@ -1955,6 +1867,24 @@
    ],
    "senior": false,
    "first_seen": "2026-11-11"
+  },
+  {
+   "id": 563774612466624,
+   "title": "Manager Operations - Reconciliations",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612466624",
+   "location": "Kolkata, West Bengal, India",
+   "city": "Kolkata",
+   "country": "India",
+   "region": "APAC",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-10-15",
+   "matched": [
+    "custody",
+    "fund services"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-14"
   },
   {
    "id": 563774612465970,
@@ -2236,6 +2166,24 @@
    ],
    "senior": false,
    "first_seen": "2026-10-16"
+  },
+  {
+   "id": 563774612401345,
+   "title": "Manager Operations -Reconciliations",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612401345",
+   "location": "Kolkata, West Bengal, India",
+   "city": "Kolkata",
+   "country": "India",
+   "region": "APAC",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-10-05",
+   "matched": [
+    "custody",
+    "fund services"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-14"
   },
   {
    "id": 563774612402343,
@@ -2858,23 +2806,6 @@
    ],
    "senior": true,
    "first_seen": "2026-11-09"
-  },
-  {
-   "id": 563774612166201,
-   "title": "Manager, Alternative Investment Operations",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612166201",
-   "location": "London, United Kingdom",
-   "city": "London",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "department": "Asset and Wealth Management",
-   "unit": "Intl Wealth & Premier Banking",
-   "posted": "2026-08-26",
-   "matched": [
-    "fund accounting"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-30"
   },
   {
    "id": 563774612165782,
