@@ -1,23 +1,58 @@
 {
- "updated": "2026-11-19T02:13:23.642697+00:00",
+ "updated": "2026-11-20T02:04:13.939813+00:00",
  "source": "https://portal.careers.hsbc.com",
  "jobs": [
   {
-   "id": 563774612661778,
-   "title": "Assistant Manager",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612661778",
-   "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-   "city": "Kuala Lumpur",
-   "country": "Malaysia",
+   "id": 563774612666450,
+   "title": "Funds Oversight Lead, Associate Director, HK, GTFS",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612666450",
+   "location": "Kowloon City, Kowloon, Hong Kong",
+   "city": "Kowloon City",
+   "country": "Hong Kong",
    "region": "APAC",
-   "department": "Investment Banking, Markets, and Research",
+   "department": "",
    "unit": "Corp & Inst Banking",
-   "posted": "2026-11-18",
+   "posted": "2026-11-19",
    "matched": [
-    "custody"
+    "custody",
+    "fund administration"
    ],
    "senior": false,
-   "first_seen": "2026-11-19"
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": 563774612667016,
+   "title": "Business Risk and Resilience - Non-Financial Risk Lead",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612667016",
+   "location": "Taguig, National Capital Region (NCR), Philippines",
+   "city": "Taguig",
+   "country": "Philippines",
+   "region": "APAC",
+   "department": "",
+   "unit": "GCOO",
+   "posted": "2026-11-19",
+   "matched": [
+    "COO"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": 563774612666404,
+   "title": "Customer Service Officer",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612666404",
+   "location": "Cheung Sha Wan, Kowloon, Hong Kong",
+   "city": "Cheung Sha Wan",
+   "country": "Hong Kong",
+   "region": "APAC",
+   "department": "Branch and Retail Banking",
+   "unit": "HK Business",
+   "posted": "2026-11-19",
+   "matched": [
+    "COO"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-20"
   },
   {
    "id": 563774612662858,
@@ -35,6 +70,23 @@
    ],
    "senior": false,
    "first_seen": "2026-11-19"
+  },
+  {
+   "id": 563774612665785,
+   "title": "Senior Vice President Corporate Relationships, West",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612665785",
+   "location": "Mumbai, Maharashtra, India",
+   "city": "Mumbai",
+   "country": "India",
+   "region": "APAC",
+   "department": "Branch and Retail Banking",
+   "unit": "Intl Wealth & Premier Banking",
+   "posted": "2026-11-18",
+   "matched": [
+    "COO"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-20"
   },
   {
    "id": 563774612661673,
@@ -90,6 +142,40 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": 563774612659798,
+   "title": "Customer Experience Support Manager",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612659798",
+   "location": "St Helier, Jersey, Jersey",
+   "city": "St Helier",
+   "country": "Jersey",
+   "region": "Europe",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-11-17",
+   "matched": [
+    "COO"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": 563774612659133,
+   "title": "Customer Experience Manager",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612659133",
+   "location": "St Helier, Jersey, Jersey",
+   "city": "St Helier",
+   "country": "Jersey",
+   "region": "Europe",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-11-17",
+   "matched": [
+    "COO"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": 563774612648524,
    "title": "Assistant Manager",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612648524",
@@ -122,27 +208,6 @@
     "custody",
     "fund administration",
     "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-19"
-  },
-  {
-   "id": 563774612651561,
-   "title": "Fund Administration Processor",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612651561",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-11-16",
-   "matched": [
-    "custody",
-    "fund accounting",
-    "fund administration",
-    "Securities Services",
-    "fund services"
    ],
    "senior": false,
    "first_seen": "2026-11-19"
@@ -233,6 +298,23 @@
    ],
    "senior": false,
    "first_seen": "2026-11-17"
+  },
+  {
+   "id": 563774612648457,
+   "title": "Analyst - Leveraged, Acquisition and Syndicated Finance (Capital Markets & Advisory)",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612648457",
+   "location": "Sydney, New South Wales, Australia",
+   "city": "Sydney",
+   "country": "Australia",
+   "region": "APAC",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-11-16",
+   "matched": [
+    "capital markets"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-20"
   },
   {
    "id": 563774612635802,
@@ -558,6 +640,23 @@
    "first_seen": "2026-11-18"
   },
   {
+   "id": 563774612631267,
+   "title": "Analyst- Capital Markets and Advisory",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612631267",
+   "location": "Central, Hong Kong Island, Hong Kong",
+   "city": "Central",
+   "country": "Hong Kong",
+   "region": "APAC",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-11-12",
+   "matched": [
+    "capital markets"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": 563774612631163,
    "title": "Analyst",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612631163",
@@ -679,21 +778,22 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": 563774612627274,
-   "title": "Associate Director, Private Markets Sales - Securities Services",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612627274",
-   "location": "London, United Kingdom",
-   "city": "London",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "department": "",
-   "unit": "Corp & Inst Banking",
+   "id": 563774612621288,
+   "title": "Post trade technology / Senior Associate Director, Tech SME",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612621288",
+   "location": "Pune, Maharashtra, India",
+   "city": "Pune",
+   "country": "India",
+   "region": "APAC",
+   "department": "Technology",
+   "unit": "GCIO",
    "posted": "2026-11-11",
    "matched": [
+    "Asset Servicing",
     "Securities Services"
    ],
    "senior": false,
-   "first_seen": "2026-11-19"
+   "first_seen": "2026-11-18"
   },
   {
    "id": 563774612621297,
@@ -714,22 +814,21 @@
    "first_seen": "2026-11-18"
   },
   {
-   "id": 563774612621288,
-   "title": "Post trade technology / Senior Associate Director, Tech SME",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612621288",
-   "location": "Pune, Maharashtra, India",
-   "city": "Pune",
-   "country": "India",
-   "region": "APAC",
-   "department": "Technology",
-   "unit": "GCIO",
+   "id": 563774612627274,
+   "title": "Associate Director, Private Markets Sales - Securities Services",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612627274",
+   "location": "London, United Kingdom",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "department": "",
+   "unit": "Corp & Inst Banking",
    "posted": "2026-11-11",
    "matched": [
-    "Asset Servicing",
     "Securities Services"
    ],
    "senior": false,
-   "first_seen": "2026-11-18"
+   "first_seen": "2026-11-19"
   },
   {
    "id": 563774612621177,
@@ -840,9 +939,9 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": 563774612619707,
+   "id": 563774612615723,
    "title": "Advisory Support",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612619707",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612615723",
    "location": "Azcapotzalco, Ciudad de M\u00e9xico, Mexico",
    "city": "Azcapotzalco",
    "country": "Mexico",
@@ -858,9 +957,9 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": 563774612615723,
+   "id": 563774612619707,
    "title": "Advisory Support",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612615723",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612619707",
    "location": "Azcapotzalco, Ciudad de M\u00e9xico, Mexico",
    "city": "Azcapotzalco",
    "country": "Mexico",
@@ -944,6 +1043,23 @@
    "first_seen": "2026-11-11"
   },
   {
+   "id": 563774612617778,
+   "title": "Senior Business Analyst - Counterparty Credit Risk",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612617778",
+   "location": "Bangalore, Karnataka, India",
+   "city": "Bangalore",
+   "country": "India",
+   "region": "APAC",
+   "department": "",
+   "unit": "Risk & Compliance",
+   "posted": "2026-11-10",
+   "matched": [
+    "Securities Services"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": 563774612615648,
    "title": "Manager Operations - Collateral Services",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612615648",
@@ -1018,25 +1134,6 @@
    ],
    "senior": false,
    "first_seen": "2026-11-10"
-  },
-  {
-   "id": 563774612614205,
-   "title": "Assistant Vice President -  Business Management",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612614205",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-11-09",
-   "matched": [
-    "MSS",
-    "Securities Services",
-    "COO"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-19"
   },
   {
    "id": 563774612614939,
@@ -1385,6 +1482,23 @@
    "first_seen": "2026-11-10"
   },
   {
+   "id": 563774612597100,
+   "title": "Manager, Alternative Operations 12-month Fixed-term Contract",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612597100",
+   "location": "London, United Kingdom",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "department": "",
+   "unit": "Intl Wealth & Premier Banking",
+   "posted": "2026-11-05",
+   "matched": [
+    "fund services"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": 563774612590235,
    "title": "Senior Legal Counsel - Global Markets",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612590235",
@@ -1472,26 +1586,6 @@
    ],
    "senior": false,
    "first_seen": "2026-11-10"
-  },
-  {
-   "id": 563774612587315,
-   "title": "Audit Manager",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612587315",
-   "location": "Mumbai, Maharashtra, India",
-   "city": "Mumbai",
-   "country": "India",
-   "region": "APAC",
-   "department": "Audit",
-   "unit": "Internal Audit",
-   "posted": "2026-11-03",
-   "matched": [
-    "custody",
-    "MSS",
-    "Securities Services",
-    "fund services"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-05"
   },
   {
    "id": 563774612584493,
@@ -1762,25 +1856,6 @@
    "first_seen": "2026-10-27"
   },
   {
-   "id": 563774612537652,
-   "title": "Assistant Manager - CLIENT MANAGEMENT",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612537652",
-   "location": "Quezon, National Capital Region (NCR), Philippines",
-   "city": "Quezon",
-   "country": "Philippines",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-26",
-   "matched": [
-    "custody",
-    "MSS",
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-05"
-  },
-  {
    "id": 563774612542786,
    "title": "Graduate Trainee",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612542786",
@@ -1796,24 +1871,6 @@
    ],
    "senior": false,
    "first_seen": "2026-10-27"
-  },
-  {
-   "id": 563774612527673,
-   "title": "Consultant Business Systems",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612527673",
-   "location": "Toronto, Ontario, Canada",
-   "city": "Toronto",
-   "country": "Canada",
-   "region": "Americas",
-   "department": "Technology",
-   "unit": "GCIO",
-   "posted": "2026-10-23",
-   "matched": [
-    "MSS",
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-03"
   },
   {
    "id": 563774612524388,
@@ -1942,23 +1999,6 @@
    "first_seen": "2026-10-27"
   },
   {
-   "id": 563774612506008,
-   "title": "Manager China Outbound and Belt & Road Initiative",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612506008",
-   "location": "Shanghai, Shanghai, China",
-   "city": "Shanghai",
-   "country": "China",
-   "region": "APAC",
-   "department": "Commercial Banking",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-19",
-   "matched": [
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-10-19"
-  },
-  {
    "id": 563774612505193,
    "title": "VP Settlement",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612505193",
@@ -2016,24 +2056,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": 563774612472338,
-   "title": "Derivatives Analyst",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612472338",
-   "location": "Edinburgh, United Kingdom",
-   "city": "Edinburgh",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-16",
-   "matched": [
-    "custody",
-    "fund services"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-05"
-  },
-  {
    "id": 563774612472094,
    "title": "AVP GM Product Control, Hang Seng",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612472094",
@@ -2084,24 +2106,6 @@
    ],
    "senior": false,
    "first_seen": "2026-11-17"
-  },
-  {
-   "id": 563774612467718,
-   "title": "Subject Matter Expert - ISSUER SERVICES",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612467718",
-   "location": "Kolkata, West Bengal, India",
-   "city": "Kolkata",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-15",
-   "matched": [
-    "custody",
-    "capital markets"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-19"
   },
   {
    "id": 563774612467140,
@@ -2242,23 +2246,6 @@
    ],
    "senior": false,
    "first_seen": "2026-11-17"
-  },
-  {
-   "id": 563774612440138,
-   "title": "Assistant Vice President - Credit Analysis Unit",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612440138",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-10-09",
-   "matched": [
-    "capital markets"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-19"
   },
   {
    "id": 563774612437295,
@@ -2487,25 +2474,6 @@
    ],
    "senior": false,
    "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774612380050,
-   "title": "Senior Process Advisor",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612380050",
-   "location": "Kolkata, West Bengal, India",
-   "city": "Kolkata",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-09-30",
-   "matched": [
-    "custody",
-    "fund accounting",
-    "capital markets"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-19"
   },
   {
    "id": 563774612379616,
@@ -3091,23 +3059,6 @@
    "first_seen": "2026-11-09"
   },
   {
-   "id": 563774612166201,
-   "title": "Manager, Alternative Investment Operations",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612166201",
-   "location": "London, United Kingdom",
-   "city": "London",
-   "country": "United Kingdom",
-   "region": "Europe",
-   "department": "Asset and Wealth Management",
-   "unit": "Intl Wealth & Premier Banking",
-   "posted": "2026-08-26",
-   "matched": [
-    "fund accounting"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-19"
-  },
-  {
    "id": 563774612165782,
    "title": "Senior Investment Markets Manager - Hang Seng Bank (HK)",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612165782",
@@ -3213,6 +3164,25 @@
    "first_seen": "2026-10-16"
   },
   {
+   "id": 563774612078877,
+   "title": "Senior Legal Counsel",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612078877",
+   "location": "London, United Kingdom",
+   "city": "London",
+   "country": "United Kingdom",
+   "region": "Europe",
+   "department": "Legal",
+   "unit": "Legal",
+   "posted": "2026-08-07",
+   "matched": [
+    "MSS",
+    "Securities Services",
+    "digital assets"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": 563774612074587,
    "title": "Payments Change Management Lead - GPS Ops (f/m/d)",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612074587",
@@ -3246,6 +3216,23 @@
    ],
    "senior": false,
    "first_seen": "2026-11-18"
+  },
+  {
+   "id": 563774612022322,
+   "title": "Corporate Trust Account Manager",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612022322",
+   "location": "Taguig, National Capital Region (NCR), Philippines",
+   "city": "Taguig",
+   "country": "Philippines",
+   "region": "APAC",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-07-28",
+   "matched": [
+    "Securities Services"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-20"
   },
   {
    "id": 563774612005201,
@@ -3299,6 +3286,23 @@
    ],
    "senior": false,
    "first_seen": "2026-10-16"
+  },
+  {
+   "id": 563774612045476,
+   "title": "Head of Business Credit Office (BCO),Japan",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612045476",
+   "location": "Tokyo, Tokyo, Japan",
+   "city": "Tokyo",
+   "country": "Japan",
+   "region": "APAC",
+   "department": "",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-07-21",
+   "matched": [
+    "COO"
+   ],
+   "senior": true,
+   "first_seen": "2026-11-20"
   },
   {
    "id": 563774611787153,
@@ -3458,6 +3462,23 @@
    "first_seen": "2026-10-16"
   },
   {
+   "id": 563774610858332,
+   "title": "Asian Equity Sales",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774610858332",
+   "location": "New York, New York, United States",
+   "city": "New York",
+   "country": "United States",
+   "region": "Americas",
+   "department": "Investment Banking, Markets, and Research",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-04-30",
+   "matched": [
+    "capital markets"
+   ],
+   "senior": false,
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": 563774610771162,
    "title": "Global Custody Senior Product Manager",
    "url": "https://portal.careers.hsbc.com/careers/job/563774610771162",
@@ -3526,6 +3547,24 @@
    ],
    "senior": false,
    "first_seen": "2026-10-16"
+  },
+  {
+   "id": 563774610513561,
+   "title": "Associate, Chief Commercial Office",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774610513561",
+   "location": "New York, New York, United States",
+   "city": "New York",
+   "country": "United States",
+   "region": "Americas",
+   "department": "Investment Banking, Markets, and Research",
+   "unit": "Corp & Inst Banking",
+   "posted": "2026-04-03",
+   "matched": [
+    "capital markets",
+    "COO"
+   ],
+   "senior": true,
+   "first_seen": "2026-11-20"
   },
   {
    "id": 563774609532167,
