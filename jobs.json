@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T00:50:58.123717+00:00",
+ "updated": "2026-11-23T01:19:26.768353+00:00",
  "source": "https://portal.careers.hsbc.com",
  "jobs": [
   {
@@ -88,23 +88,6 @@
    ],
    "senior": false,
    "first_seen": "2026-11-20"
-  },
-  {
-   "id": 563774612662858,
-   "title": "Senior Business Analyst - Securities Services",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612662858",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-11-18",
-   "matched": [
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-19"
   },
   {
    "id": 563774612665785,
@@ -1038,23 +1021,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": 563774612617778,
-   "title": "Senior Business Analyst - Counterparty Credit Risk",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612617778",
-   "location": "Bangalore, Karnataka, India",
-   "city": "Bangalore",
-   "country": "India",
-   "region": "APAC",
-   "department": "",
-   "unit": "Risk & Compliance",
-   "posted": "2026-11-10",
-   "matched": [
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-20"
-  },
-  {
    "id": 563774612615648,
    "title": "Manager Operations - Collateral Services",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612615648",
@@ -1491,26 +1457,6 @@
    "first_seen": "2026-11-05"
   },
   {
-   "id": 563774612582772,
-   "title": "Business Manager - Securities Services - UAE National Role",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612582772",
-   "location": "Dubai, Dubai, United Arab Emirates",
-   "city": "Dubai",
-   "country": "United Arab Emirates",
-   "region": "MENA",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-11-03",
-   "matched": [
-    "custody",
-    "fund administration",
-    "Securities Services",
-    "capital markets"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-08"
-  },
-  {
    "id": 563774612582570,
    "title": "Vice President, Institutional Client Group",
    "url": "https://portal.careers.hsbc.com/careers/job/563774612582570",
@@ -1526,24 +1472,6 @@
    ],
    "senior": false,
    "first_seen": "2026-11-10"
-  },
-  {
-   "id": 563774612584493,
-   "title": "Associate - Prime Services & Equity Derivatives, Institutional Sales - (UAE National Role)",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774612584493",
-   "location": "Dubai, Dubai, United Arab Emirates",
-   "city": "Dubai",
-   "country": "United Arab Emirates",
-   "region": "MENA",
-   "department": "",
-   "unit": "Corp & Inst Banking",
-   "posted": "2026-11-03",
-   "matched": [
-    "MSS",
-    "Securities Services"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-08"
   },
   {
    "id": 563774612584189,
@@ -3134,23 +3062,6 @@
    ],
    "senior": false,
    "first_seen": "2026-10-16"
-  },
-  {
-   "id": 563774611738604,
-   "title": "UHNW Solutions Group Specialist",
-   "url": "https://portal.careers.hsbc.com/careers/job/563774611738604",
-   "location": "Singapore, Singapore",
-   "city": "Singapore",
-   "country": "Singapore",
-   "region": "APAC",
-   "department": "",
-   "unit": "Intl Wealth & Premier Banking",
-   "posted": "2026-07-03",
-   "matched": [
-    "capital markets"
-   ],
-   "senior": false,
-   "first_seen": "2026-11-02"
   },
   {
    "id": 563774611582883,
